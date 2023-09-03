@@ -1,0 +1,16 @@
+{
+  "short_name": "Tic Tac Toe",
+  "name": "Tic Tac Toe App",
+  "description":"A game that:\n . Lets you play tic-tac-toe in both desktop-view and mobile-view\n . Indicates when a player has won the game or when draw occurs\n . Stores a game’s history as a game progresses,\n . Allows players to review a game’s history and see previous versions of a game’s board.\n . Highlights the three squares that caused the winm\n . Can be reset at any step. \n. Displays Confetti on winning.",
+  "icons": [
+    {
+      "src": "tic_tac_toe_3.png",
+      "type": "image/png",
+      "sizes": "64x64 32x32 24x24 16x16 192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,21 @@
+/* Header Style */
+.header {
+    text-align: center;
+    color: white;
+    background:#162944;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: calc(20% - 10px);
+    align-items: center;
+    padding: 0.5rem 0rem;
+    .header-content {
+        font-size: 0.75rem;
+        }
+    .header-logo {
+        margin: 0 1rem;
+        > img {
+            width: 4rem;
+        }
+    }
+}
